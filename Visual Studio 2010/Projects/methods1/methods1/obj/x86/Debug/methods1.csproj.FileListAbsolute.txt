@@ -1,0 +1,4 @@
+c:\users\user\documents\visual studio 2010\Projects\methods1\methods1\bin\Debug\methods1.exe
+c:\users\user\documents\visual studio 2010\Projects\methods1\methods1\bin\Debug\methods1.pdb
+c:\users\user\documents\visual studio 2010\Projects\methods1\methods1\obj\x86\Debug\methods1.exe
+c:\users\user\documents\visual studio 2010\Projects\methods1\methods1\obj\x86\Debug\methods1.pdb

@@ -1,0 +1,4 @@
+c:\users\user\documents\visual studio 2010\Projects\class3\class3\bin\Debug\class3.exe
+c:\users\user\documents\visual studio 2010\Projects\class3\class3\bin\Debug\class3.pdb
+c:\users\user\documents\visual studio 2010\Projects\class3\class3\obj\x86\Debug\class3.exe
+c:\users\user\documents\visual studio 2010\Projects\class3\class3\obj\x86\Debug\class3.pdb

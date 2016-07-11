@@ -1,0 +1,7 @@
+﻿------ Build started: Project: WindowsFormsApplication1, Configuration: Debug x86 ------
+  WindowsFormsApplication1 -> c:\users\user\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+------ Skipped Build: Project: Setup1, Configuration: Debug ------
+Project not selected to build for this solution configuration 
+------ Skipped Build: Project: Setup2, Configuration: Debug ------
+Project not selected to build for this solution configuration 
+========== Build: 1 succeeded or up-to-date, 0 failed, 2 skipped ==========

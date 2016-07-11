@@ -1,0 +1,4 @@
+c:\users\user\documents\visual studio 2010\Projects\property1\property1\bin\Debug\property1.exe
+c:\users\user\documents\visual studio 2010\Projects\property1\property1\bin\Debug\property1.pdb
+c:\users\user\documents\visual studio 2010\Projects\property1\property1\obj\x86\Debug\property1.exe
+c:\users\user\documents\visual studio 2010\Projects\property1\property1\obj\x86\Debug\property1.pdb
